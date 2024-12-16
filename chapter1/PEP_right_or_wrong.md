@@ -55,7 +55,7 @@ Constants:
 - [x] a `THRESHOLD = 0.1`
 - [ ] b `threshold = 0.1`
 - [ ] c `Threshold = 0.1`
-- [ ] d `T = 0.1`
+- [x] d `T = 0.1`
 
 Other:
 - [ ] a `list = my_areas`
@@ -66,7 +66,7 @@ Other:
 Modules:
 - [ ] a `Numerical.py`
 - [x] b `numerical.py`
-- [ ] c `numerical_analysis.py`
+- [x] c `numerical_analysis.py`
 - [ ] d `numerical-analysis.py`
 
 Packages:
